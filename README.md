@@ -5,12 +5,7 @@ Easy to use library for controlling L298N motor Driver for Arduino
  * For improvements or bugs    
  * Contact me using email
  * nikolas619065@gmail.com
- */
-///////////////////////////////////////
-// --- Check example code ! --- //
-///////////////////////////////////////
-
-Easy to use library for L298 dc motor driver. 
+ *
 
 Some Instructions :
 
@@ -45,4 +40,3 @@ motors.stopA(); stops motor A
 motors.stopB(); stops motor B
 
 motors.SpeedA and motors.SpeedB  are pwn values for controlling speed of motors it can take values 0(min) to 255(max)
-
